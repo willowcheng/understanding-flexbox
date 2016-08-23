@@ -5,6 +5,9 @@
 .container {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
-    height: 280px;
+    justify-content: space-around;
+}
+
+.item-1 {
+    margin-right: auto;
 }

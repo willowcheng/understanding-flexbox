@@ -8,6 +8,10 @@
     justify-content: space-around;
 }
 
-.item-1 {
-    margin-right: auto;
+.item {
+    flex: 1 200px;
+}
+
+.item-2 {
+    flex: 2;
 }
